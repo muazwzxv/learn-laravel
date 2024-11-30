@@ -1,4 +1,3 @@
-<div>
-    <!-- Nothing worth having comes easy. - Theodore Roosevelt -->
+<x-layout>
     <h1>create<h1>
-</div>
+</x-layout>
